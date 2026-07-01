@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.i4-help.com.cn/sitemap.xml
+
+# Crawl-delay (optional, polite to servers)
+Crawl-delay: 1
